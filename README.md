@@ -1,11 +1,13 @@
 # Bubble
+## New 20190131
+update and bugfix
+
 
 ![promo](https://raw.githubusercontent.com/nkanaev/bubble/master/art/promo.jpg)
 
 Android comic book reader.
 
-## new 
-update and bugfix
+
 
 
 
