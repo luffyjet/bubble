@@ -4,6 +4,11 @@
 
 Android comic book reader.
 
+## new 
+update and bugfix
+
+
+
 ## Features
 
 * Optimized for tablets
